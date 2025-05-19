@@ -1,0 +1,10 @@
+.form-card{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    border: 2px solid black;
+    border-radius: 15px;
+    padding: 1rem;
+    background-color:gray ;
+    color: black;
+}
